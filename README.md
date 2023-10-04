@@ -41,10 +41,6 @@ Here are some ideas to get you started:
     </a>    
 </a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berdikulov-571&" alt="berdikulov-571" /></p>
-
-
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/berdikulov-571/count.svg" />
