@@ -24,3 +24,8 @@ Here are some ideas to get you started:
   ![Snake animation](https://github.com/radjabov4443/radjabov4443/blob/main/github-contribution-grid-snake.svg)
  
 </div>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/berdikulov-571/count.svg" />
+</p>
