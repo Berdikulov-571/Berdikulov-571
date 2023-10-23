@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### 
 <!--
 **Berdikulov-571/Berdikulov-571** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
