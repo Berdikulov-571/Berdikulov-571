@@ -2,6 +2,9 @@
 <!--
 **Berdikulov-571/Berdikulov-571** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<!-- MORE https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&text=Berdikulov%20Sanjarbek%20&.NET%20DEVELOPER🙂&animation=fadeIn&fontSize=20&fontAlign=74&fontAlignY=38&descAlign=77&color=d0b0ff)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
