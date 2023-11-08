@@ -23,6 +23,7 @@
     </a>   
 </a>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berdikulov-571&" alt="berdikulov-571" /></p>
 
 <div> 
  <svg viewBox="-16 -32 880 192" width="880" height="192" xmlns="http://www.w3.org/2000/svg">
@@ -32,8 +33,6 @@
   ![Snake animation](https://github.com/radjabov4443/radjabov4443/blob/main/github-contribution-grid-snake.svg)
  
 </div>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankabutdev&" alt="ankabutdev" /></p>
 
 <p align="center"> 
   Visitor count<br>
