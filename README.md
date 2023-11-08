@@ -33,6 +33,8 @@
  
 </div>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankabutdev&" alt="ankabutdev" /></p>
+
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/berdikulov-571/count.svg" />
